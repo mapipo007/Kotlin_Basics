@@ -6,6 +6,5 @@ fun main() {
 
     println("full name = $fullName")
     println(name)
-    var i = 0 // mutable
-
+    var i = 0  // mutable
 }
